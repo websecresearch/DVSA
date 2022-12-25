@@ -15,7 +15,7 @@
     "aws-amplify": "^1.1.17",
     "aws-amplify-react": "^2.2.4",
     "cross-env": "5.1.6",
-    "css-loader": "0.28.11",
+    "css-loader": "4.0.0",
     "history": "4.7.2",
     "lightbox-react": "0.1.5",
     "lodash": "4.17.10",
@@ -42,10 +42,10 @@
     "redux-mock-store": "1.2.3",
     "redux-thunk": "2.2.0",
     "regenerator-runtime": "^0.13.1",
-    "sass-loader": "7.0.1",
+    "sass-loader": "9.0.0",
     "semantic-ui-react": "0.81.1",
     "validator": "10.2.0",
-    "webpack": "4.27.1"
+    "webpack": "5.0.0"
   },
   "devDependencies": {
     "babel-cli": "6.24.1",
